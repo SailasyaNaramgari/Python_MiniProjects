@@ -3,10 +3,8 @@
 
 Contains projects written in Python. 
 
-Requirements and Tested Platforms
-Python:
+Requirements and Tested Platforms :
 
-PyCharm
-Windows (32bit/64bit):
+Python: PyCharm
 
-Windows 11
+Windows (32bit/64bit): Windows 11
